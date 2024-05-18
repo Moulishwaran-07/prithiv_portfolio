@@ -1,0 +1,538 @@
+@font-face {
+    font-family: LexendDecaVariableFontwght;
+    src: url('./font/LexendDecaVariableFontwght.ttf');
+}
+
+@font-face {
+    font-family: CrimsonTextBoldItalic;
+    src: url('./font/CrimsonTextBoldItalic.ttf');
+}
+
+@font-face {
+    font-family: NiramitLight;
+    src: url('./font/NiramitLight.ttf');
+}
+
+* {
+    background-color: white;
+}
+
+.page {
+    width: 100%;
+}
+
+.design {
+    margin: auto;
+    width: 70%;
+}
+
+.name h1 {
+    font-size: 3.8rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 400;
+    margin-left: 30px;
+    margin-top: 0px;
+}
+
+.top_para p {
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: NiramitLight;
+    margin-top: 20px;
+}
+
+.heading1 h2 {
+    margin-left: 30px;
+    font-size: 2rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 500;
+    color: brown;
+}
+
+.heading1 h4 {
+    margin-left: 30px;
+    font-size: 1.2rem;
+    font-family: CrimsonTextBoldItalic;
+    font-weight: 500;
+    color: gray;
+}
+
+.heading1 h5 {
+    margin-left: 30px;
+    font-size: 1.3rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 500;
+}
+
+.project1 .para2 p {
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: NiramitLight;
+    margin-top: -10px;
+}
+
+.head2 h3 {
+    margin-left: 30px;
+    font-size: 1.3rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 500;
+}
+
+.head2 ul li {
+    text-align: justify;
+    font-weight: 500;
+    font-size: 1.2rem;
+    font-family: NiramitLight;
+    margin-right: 30px;
+}
+
+.image4 img {
+    width: 94%;
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.image5 img {
+    width: 94%;
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.image6 img {
+    width: 94%;
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.image7 img {
+    width: 94%;
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.Project2 {
+    margin-top: 100px;
+}
+
+.heading h2 {
+    margin-left: 30px;
+    font-size: 2rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 500;
+    color: brown;
+}
+
+.heading h4 {
+    margin-left: 30px;
+    font-size: 1.2rem;
+    font-family: CrimsonTextBoldItalic;
+    font-weight: 500;
+    color: gray;
+}
+
+.heading h5 {
+    margin-left: 30px;
+    font-size: 1.3rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 500;
+}
+
+.Project2 .para1 p {
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: NiramitLight;
+    margin-top: -10px;
+}
+
+.head1 h3 {
+    margin-left: 30px;
+    font-size: 1.3rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 500;
+}
+
+.head1 ul li {
+    text-align: justify;
+    font-weight: 500;
+    font-size: 1.2rem;
+    font-family: NiramitLight;
+    margin-right: 30px;
+}
+
+.image1 img {
+    width: 94%;
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.image2 img {
+    width: 94%;
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.image3 img {
+    width: 94%;
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.project3 {
+    margin-top: 100px;
+}
+
+.heading3 h2 {
+    margin-left: 30px;
+    font-size: 2rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 500;
+    color: brown;
+}
+
+.heading3 h4 {
+    margin-left: 30px;
+    font-size: 1.2rem;
+    font-family: CrimsonTextBoldItalic;
+    font-weight: 500;
+    color: gray;
+}
+
+.heading3 h5 {
+    margin-left: 30px;
+    font-size: 1.3rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 500;
+}
+
+.project3 .para3 p {
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: NiramitLight;
+    margin-top: -10px;
+}
+
+.head3 ul li {
+    text-align: justify;
+    font-weight: 500;
+    font-size: 1.2rem;
+    font-family: NiramitLight;
+    margin-right: 30px;
+}
+
+.head3 h3 {
+    margin-left: 30px;
+    font-size: 1.3rem;
+    font-family: LexendDecaVariableFontwght;
+    font-weight: 500;
+}
+
+.image8 img {
+    width: 94%;
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.image9 img {
+    width: 94%;
+    height: 70%;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 50px;
+}
+
+.end_para p {
+    text-align: justify;
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: NiramitLight;
+    margin-top: 20px;
+}
+
+
+
+
+.Profile-box {
+    height: 15vh;
+    /* width:70%;
+    margin: auto; */
+    font-family: NiramitLight;
+    font-weight: 100;
+    display: flex;
+    color: black;
+    overflow: hidden;
+    margin-left: 30px;
+}
+
+.img-src {
+    height: 100%;
+    width: 11%;
+    border-radius: 50%;
+}
+
+.picture {
+    height: 100%;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.name-align {
+    display: flex;
+    font-size: 12px;
+    gap: 5px;
+}
+
+.e-mail {
+
+    text-align: center;
+    padding: 5px;
+}
+
+.sub {
+
+    text-align: center;
+    position: relative;
+    padding: 5px;
+}
+
+.sub::before {
+    content: '';
+    height: 20px;
+    width: 2.5px;
+    background-color: black;
+    position: absolute;
+    top: 7px;
+    left: -5px;
+}
+
+.name-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+
+.username {
+    display: flex;
+    align-items: center;
+}
+
+.username h1 {
+    margin: 20px;
+    line-height: 0px;
+    font-size: 25px;
+}
+
+h3 {
+    margin: 0px;
+}
+
+
+
+
+@media all and (max-width:500px) {
+
+
+    .page {
+        width: 100%;
+    }
+    
+    .design {
+        margin: auto;
+        width: 100%;
+    }
+    .name h1 {
+        font-size: 1.7rem;
+        font-family: LexendDecaVariableFontwght;
+        font-weight: 500;
+        margin-left: 28px;
+        margin-top: 0px;
+
+    }
+
+    .Profile-box {
+        width: 350px;
+        height: 100px;
+       
+    }
+
+    .img-src {
+        height: 100%;
+        width: 15%;
+        border-radius: 50%;
+    }
+
+    .picture {
+        height: 100%;
+        width: 100%;
+        border-radius: 50%;
+    }
+    .name-box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+    }
+    .top_para p {
+        text-align: justify;
+        margin-left: 30px;
+        margin-right: 30px;
+        font-size: 1.3rem;
+        font-weight: 500;
+        font-family: NiramitLight;
+        margin-top: 20px;
+    }
+    .heading1 h2 {
+        margin-left: 30px;
+        font-size: 1.4rem;
+        font-family: LexendDecaVariableFontwght;
+        font-weight: 500;
+        color: brown;
+    }
+    .image4 img {
+        width: 94%;
+        height: 70%;
+        margin-left: 12px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+    
+    .image5 img {
+        width: 94%;
+        height: 70%;
+        margin-left: 12px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+    
+    .image6 img {
+        width: 94%;
+        height: 70%;
+        margin-left: 12px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+    
+    .image7 img {
+        width: 94%;
+        height: 70%;
+        margin-left: 12px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+    .heading h2 {
+        margin-left: 30px;
+        font-size: 1.4rem;
+        font-family: LexendDecaVariableFontwght;
+        font-weight: 500;
+        color: brown;
+    }
+    .image1 img {
+        width: 94%;
+        height: 70%;
+        margin-left: 12px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+    
+    .image2 img {
+        width: 94%;
+        height: 70%;
+        margin-left: 12px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+    
+    .image3 img {
+        width: 94%;
+        height: 70%;
+        margin-left: 12px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+    .heading3 h2 {
+        margin-left: 30px;
+        font-size: 1.4rem;
+        font-family: LexendDecaVariableFontwght;
+        font-weight: 500;
+        color: brown;
+    }
+    .image8 img {
+        width: 94%;
+        height: 70%;
+        margin-left: 12px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+    
+    .image9 img {
+        width: 94%;
+        height: 70%;
+        margin-left: 12px;
+        margin-right: 0px;
+        margin-top: 50px;
+    }
+}
+
+@media all and (min-width:750px) and (max-width:1000px) {
+
+    .name h1 {
+        font-size: 1.9rem;
+        font-family: LexendDecaVariableFontwght;
+        font-weight: 500;
+        margin-left: 28px;
+        margin-top: 0px;
+    }
+    .Profile-box {
+        width: 400px;
+        height: 100px;
+       
+    }
+
+    .img-src {
+        height: 100%;
+        width: 20%;
+        border-radius: 50%;
+    }
+
+    .picture {
+        height: 100%;
+        width: 100%;
+        border-radius: 50%;
+    }
+    .name-box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+    }
+}
